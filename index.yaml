@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  hadoop:
+  - apiVersion: v1
+    appVersion: 2.9.0
+    created: "2022-01-19T19:21:50.412459+08:00"
+    deprecated: true
+    description: DEPRECATED - The Apache Hadoop software library is a framework that
+      allows for the distributed processing of large data sets across clusters of
+      computers using simple programming models.
+    digest: 03974fd5c4e90b82de37c3e9e3fb8d47a74eef5060c6b4e7a98fb1a11bcda11d
+    home: https://hadoop.apache.org/
+    icon: http://hadoop.apache.org/images/hadoop-logo.jpg
+    name: hadoop
+    sources:
+    - https://github.com/apache/hadoop
+    urls:
+    - https://joyyangfan.github.io/myhelm/hadoop-1.1.4.tgz
+    version: 1.1.4
+generated: "2022-01-19T19:21:50.411575+08:00"
